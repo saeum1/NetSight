@@ -1,0 +1,16 @@
+C:\Users\Administrator\Desktop\WF_Cilent\bin\Debug\net10.0-windows\WF_Client.exe
+C:\Users\Administrator\Desktop\WF_Cilent\bin\Debug\net10.0-windows\WF_Client.deps.json
+C:\Users\Administrator\Desktop\WF_Cilent\bin\Debug\net10.0-windows\WF_Client.runtimeconfig.json
+C:\Users\Administrator\Desktop\WF_Cilent\bin\Debug\net10.0-windows\WF_Client.dll
+C:\Users\Administrator\Desktop\WF_Cilent\bin\Debug\net10.0-windows\WF_Client.pdb
+C:\Users\Administrator\Desktop\WF_Cilent\obj\Debug\net10.0-windows\WF_Cilent.Form1.resources
+C:\Users\Administrator\Desktop\WF_Cilent\obj\Debug\net10.0-windows\WF_Client.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\WF_Cilent\obj\Debug\net10.0-windows\WF_Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\WF_Cilent\obj\Debug\net10.0-windows\WF_Client.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\WF_Cilent\obj\Debug\net10.0-windows\WF_Client.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\WF_Cilent\obj\Debug\net10.0-windows\WF_Client.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\WF_Cilent\obj\Debug\net10.0-windows\WF_Client.dll
+C:\Users\Administrator\Desktop\WF_Cilent\obj\Debug\net10.0-windows\refint\WF_Client.dll
+C:\Users\Administrator\Desktop\WF_Cilent\obj\Debug\net10.0-windows\WF_Client.pdb
+C:\Users\Administrator\Desktop\WF_Cilent\obj\Debug\net10.0-windows\WF_Client.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\WF_Cilent\obj\Debug\net10.0-windows\ref\WF_Client.dll
